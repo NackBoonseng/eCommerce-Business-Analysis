@@ -8,4 +8,8 @@ Insights and recommendations are provided on the following key areas:
 - Product Performance and Portfolio Management: This project analyzes sales trends, identifies **cross-selling opportunities**, and tracks product launches. The SQL analysis can reveal which products are driving the most revenue, which have higher margins, and how new **product launches** are impacting overall business performance. By understanding product performance through data, businesses can make strategic decisions around inventory management, pricing strategies, and marketing focus.
 - Conversion Funnel Analysis: This project is analyzing the conversion funnel, which tracks a customer’s journey from visiting the website to making a purchase. Conversion funnel analysis identifies where customers drop off and where they continue, helping businesses refine the user experience. SQL queries are used to track each step, from landing pages to product views, and from the cart to checkout. This is crucial for identifying pain points in the customer journey, which when addressed, can lead to significant improvements in **conversion rates** and **overall sales**.
 
-Targed SQL queries regarding various business questions can be found here [page](https://github.com/NackBoonseng/e-Commance_SQL-Query).
+Targed SQL queries regarding various business questions can be found[here](https://github.com/NackBoonseng/e-Commance_SQL-Query).
+
+# Data Structure & Initial Checks
+A custom-built eCommerce database designed to help analyze and optimize various aspects of an online retail business. ​ It contains six related tables that store data about website activity, products, orders, and refunds.
+
