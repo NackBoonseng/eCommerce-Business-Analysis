@@ -28,9 +28,9 @@ A custom-built eCommerce database designed to help analyze and optimize various 
 # Executive Summary 
 **Overview of Findings**
 # Insights Deep Dive 
-**Optimize marketing channels**
-**Measure and test website conversion performance**
-**Use data to understand the impact of new product launches**
+- **Optimize marketing channels**
+- **Measure and test website conversion performance**
+- **Use data to understand the impact of new product launches**
 
 # Recommendations 
 - Based on the insights and findings above, we would recommend the stakeholders to consider the following:
