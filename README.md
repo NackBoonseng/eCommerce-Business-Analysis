@@ -11,5 +11,33 @@ Insights and recommendations are provided on the following key areas:
 Targed SQL queries regarding various business questions can be found[here](https://github.com/NackBoonseng/e-Commance_SQL-Query).
 
 # Data Structure & Initial Checks
-A custom-built eCommerce database designed to help analyze and optimize various aspects of an online retail business. ​ It contains six related tables that store data about website activity, products, orders, and refunds.
+A custom-built eCommerce database designed to help analyze and optimize various aspects of an online retail business. ​ It contains five related tables that store data as the following key table:
+1. website_sessions: Contains data about user sessions on the website. ​
+2. website_pageviews: Contains data about page views during user sessions. ​
+3. orders: Contains data about orders placed by users. ​
+4. order_items: Contains data about items included in each order. ​
+5. order_item_refunds: Contains data about refunds for order items.
 
+## Data description:
+- website_sessions: Tracks user sessions with fields like website_session_id, utm_source, utm_campaign, device_type, and is_repeat_session. ​
+- website_pageviews: Tracks page views with fields like website_session_id and url. ​
+- orders: Tracks orders with fields like order_id, website_session_id, price_usd, and cogs_usd. ​
+- order_items: Tracks items in orders with fields like order_id and product_id.
+- order_item_refunds: Tracks refunds with fields like order_id and refund_amount.
+
+# Executive Summary 
+## Overview of Findings
+# Insights Deep Dive 
+### Optimize marketing channels
+### Measure and test website conversion performance
+### Use data to understand the impact of new product launches
+
+# Recommendations 
+- Based on the insights and findings above, we would recommend the stakeholders to consider the following:
+Strategic Decision-Making: The insights derived from this analysis empower businesses to make data-backed decisions that can directly impact revenue growth, cost reduction, and customer satisfaction. Instead of making assumptions, businesses can rely on concrete data about traffic, conversion rates, and sales performance to adjust strategies in real-time.
+
+- Competitive Advantage: In a competitive eCommerce environment, being able to act on data quickly provides a competitive edge. Businesses can continuously monitor market trends, customer preferences, and sales performance, allowing them to stay ahead of competitors by adjusting their product offerings and marketing strategies.
+
+- Customer-Centric Approach: Understanding the customer journey and optimizing each step leads to a better customer experience, which is key to customer retention and loyalty. Data analysis from this project helps businesses focus on delivering a seamless, personalized experience for users, which can significantly boost long-term profitability.
+
+- Revenue Growth: Optimizing marketing channels, reducing bounce rates, and improving conversion funnels all lead to higher conversion rates, ultimately driving higher revenue. Additionally, identifying underperforming products or channels allows businesses to cut losses and redirect resources toward more profitable areas.
