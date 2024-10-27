@@ -17,6 +17,7 @@ A custom-built eCommerce database designed to help analyze and optimize various 
 3. orders: Contains data about orders placed by users. ​
 4. order_items: Contains data about items included in each order. ​
 5. order_item_refunds: Contains data about refunds for order items.
+![eCommerce_SQL](https://github.com/user-attachments/assets/5ec24c72-e6d4-4802-a2fc-a132ff7a1431)
 
 ## Data description:
 - website_sessions: Tracks user sessions with fields like website_session_id, utm_source, utm_campaign, device_type, and is_repeat_session. ​
